@@ -1,4 +1,5 @@
 fastapi
+pydantic[email]
 uvicorn[standard]
 gunicorn
 sqlmodel
@@ -6,4 +7,5 @@ python-jose[cryptography]
 passlib[bcrypt]
 httpx
 python-multipart
+
 
